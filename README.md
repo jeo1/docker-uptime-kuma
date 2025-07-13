@@ -6,4 +6,5 @@ TIMEZONE=America/Toronto
 
 # Update
 UPTIME_KUMA_CONFIG=<path to uptime-kuma config>
+KUMA_PORT=<kuma port>
 ```
